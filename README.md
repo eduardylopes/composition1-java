@@ -1,6 +1,6 @@
 # composition1-java
 
-This was an exercise that was solved during Professor Nelio Alvez's object-oriented development course. In this exercise we use constructors, encapsulation and enumerations.
+This exercise was solved during Professor Nelio Alvez's object-oriented development course. In this exercise we use constructors, encapsulation and enumerations.
 
 UML Diagram:
 
